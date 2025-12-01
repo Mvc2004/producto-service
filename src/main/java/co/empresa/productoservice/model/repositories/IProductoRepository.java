@@ -8,4 +8,4 @@ import org.springframework.data.repository.CrudRepository;
  * operaciones de CRUD sobre la entidad Producto
  */
 public interface IProductoRepository extends CrudRepository<Producto, Long> {
-}.
+}
